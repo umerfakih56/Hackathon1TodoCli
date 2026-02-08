@@ -21,7 +21,7 @@ A simple command-line todo list application built with Python that stores all da
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/asadaligith/Todo-App-CLI-Based.git
+git clone https://github.com/umerfakih56/Hackathon1TodoCli
 cd Todo-App-CLI-Based
 ```
 
