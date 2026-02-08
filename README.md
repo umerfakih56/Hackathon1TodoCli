@@ -19,13 +19,7 @@ A simple command-line todo list application built with Python that stores all da
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/asadaligith/Todo-App-CLI-Based.git
-cd Todo-App-CLI-Based
-```
-
-2. No additional installation needed - uses Python standard library only
+1. No additional installation needed - uses Python standard library only
 
 ## Usage
 
